@@ -7,7 +7,7 @@
 
 
 ## Resources
-- Source Code   :  https://github.com/basir/next-tailwind-amazona
+- Source Code   :  https://github.com/aizaz0017/Ecommerce-app-project
 
 
 
@@ -16,7 +16,7 @@
 1. Clone repo
 
    ```shell
-    $ git clone aizaz0017/Ecommerce-app-project
+    $ git@github.com:aizaz0017/Ecommerce-app-project.git
    ```
 
 
@@ -42,4 +42,3 @@
 
    - Run http://localhost:3000/login
    - Enter admin email and password and click Login
-
